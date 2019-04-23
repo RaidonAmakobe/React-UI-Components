@@ -10,4 +10,6 @@ const HeaderContainer = () => {
             <HeaderTitle />
         </div>
     );
-}
+};
+
+export default HeaderContainer;

@@ -16,4 +16,6 @@ const HeaderTItle = () => {
         </div>
     );
 };
+
+export default HeaderTItle;
  

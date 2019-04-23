@@ -8,4 +8,6 @@ HeaderContent = () => (
         comfortable building components, you are well on your way to mastering
         React!
     </p>
-)
+);
+
+export default HeaderContent;
