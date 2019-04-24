@@ -32,8 +32,12 @@ class App extends React.Component {
           <NumberButton bgColor = "num-button" text = "3" />
           <NumberButton bgColor = "red-button" text = "+" />
         </ButtonContainer>
+        <ButtonContainer>
+          <ActionButton className = "three-text" text = "0" />
+          <NumberButton bgColor = "red-button" text = "=" />
+        </ButtonContainer>
       </div>
-    )
+    );
   }
 }
 export default App;
