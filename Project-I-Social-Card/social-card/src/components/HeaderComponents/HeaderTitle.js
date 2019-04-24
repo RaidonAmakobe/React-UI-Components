@@ -11,7 +11,7 @@ const HeaderTItle = () => {
             <div className = "header-title">
                 Lambda School
                 <span className = "time-stamp">{time.format('MMM Do ')}</span>
-                <Headercontent />
+                <HeaderContent />
             </div>
         </div>
     );
