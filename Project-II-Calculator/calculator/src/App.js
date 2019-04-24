@@ -15,7 +15,10 @@ class App extends React.Component {
           <NumberButton bgColor = "red-button" text = "/" />
         </ButtonContainer>
         <ButtonContainer>
-          <NumberButton bgColor
+          <NumberButton bgColor = "num-button" text = "7" />
+          <NumberButton bgColor = "num-button" text = "8" />
+          <NumberButton bgColor = "num-button" text = "9" />
+          <NumberButton bgColor = "red-button" text = "X" />
         </ButtonContainer>
       </div>
     )
