@@ -8,3 +8,5 @@ const ActionButton = props => {
         </button>
     );
 };
+
+export default ActionButton;
