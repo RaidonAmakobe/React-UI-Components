@@ -5,6 +5,8 @@
 }
 
 .banner-container-wrapper {
+  display: flex;
+  flex-direction: column;
   height: 269px;
   width: 80%;
   margin: 30px auto 0 auto;
